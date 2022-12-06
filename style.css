@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Orbitron, Poppins ;
+}
+.navbar-container{
+    display: flex;
+}
+.logo{
+    position: relative;
+    left: 70px;
+    top: 29px;
+}
+.logo img{
+    /* width: 100px;
+    height: 100px; */
+}
+
+.list-item{
+    display: inline-block;
+        width: 10Opx;
+        height: 10px;
+        margin-top: 17px;
+        margin-right: 19px;
+        margin-bottom: 0px;
+        margin-left: 20px;
+        font-weight: bold;
+        position: relative;
+        left: 233px;
+        top: 33px;
+    }
+    
+    
+    .home{
+        font-weight: 900;
+        text-decoration: underline;
+        font-size: 20px;
+    }
+
+.button-group{
+    display: flex;
+    background-color: rgb(53, 244, 15);
+}
+.search-icon{
+
+    position: absolute;
+        right: 268px;
+        top: 48px;
+}
+.nav-button{
+    width: 140px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #ffffff;
+
+    position: absolute;
+        right: 115px;
+        top: 40px;
+
+}
+
+.hero-container{
+    display: flex;
+
+}
+.star{
+    position: absolute;
+    right: 100px;
+    top: 90px;
+
+}
+.star img{
+    width: 40px;
+        height: 40px;
+
+}
+.globe{
+    position: absolute;
+        left: 729px;
+        top: 100px;
+        
+}
+.globe img{
+    width: 40px;
+    height: 40px;
+}
+.square{
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.person-iamge img{
+    width: 351px;
+        height: 391px;
+        position: relative;
+        right: 321px;
+        top: 75px;
+
+}
+
+.hero-container-right{
+    position: relative;
+        right: 131px;
+        top: 108px;
+}
+.hero-heading{
+    font-size: 40px;
+    position: relative;
+    right: 10px;
+    top: 20px;
+
+}
+.hero-description{
+font-family: Poppins;
+    font-size: 12px;
+    position: relative;
+    right: 10px;
+    top: 50px;
+
+}
+.button-email{
+position: relative;
+    left: 136px;
+    top: 121px;
+    width: 172px;
+    height: 33px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+.button-join{
+    position: relative;
+        left: 140px;
+        top: 121px;
+        width: 100px;
+        height: 33px;
+         border-radius: 20px; 
+        background-color: #000000fb;
+        color: #ffffff;
+
+}
+.contact-heading{
+    position: relative;
+        left: 221px;
+        top: 156px;
+
+}
+.icons{
+    position: relative;
+        left: 181px;
+        top: 160px;
+
+}
+.icons img{
+    margin: 10px;
+        width: 30px;
+        height: 30px;
+
+}
+
